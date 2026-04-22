@@ -1,7 +1,7 @@
-# eframe template
+# {{ crate_display_name }}
 
-[![dependency status](https://deps.rs/repo/github/emilk/eframe_template/status.svg)](https://deps.rs/repo/github/emilk/eframe_template)
-[![Build Status](https://github.com/emilk/eframe_template/workflows/CI/badge.svg)](https://github.com/emilk/eframe_template/actions?workflow=CI)
+[![dependency status](https://deps.rs/repo/github/{{ github_repository_owner_and_name }}/status.svg)](https://deps.rs/repo/github/{{ github_repository_owner_and_name }})
+[![Build Status](https://github.com/{{ github_repository_owner_and_name }}/workflows/CI/badge.svg)](https://github.com/{{ github_repository_owner_and_name }}/actions?workflow=CI)
 
 This is a template repo for [eframe](https://github.com/emilk/egui/tree/master/crates/eframe), a framework for writing apps using [egui](https://github.com/emilk/egui/).
 

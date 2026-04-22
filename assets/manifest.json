@@ -1,6 +1,6 @@
 {
-  "name": "egui Template PWA",
-  "short_name": "egui-template-pwa",
+  "name": "{{ pwa_name }}",
+  "short_name": "{{ pwa_short_name }}",
   "icons": [
     {
       "src": "./assets/favicon-192x192.png",
